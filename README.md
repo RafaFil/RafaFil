@@ -1,15 +1,6 @@
 ### Hi I´m Rafa 👋
 
-
-<> <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafafil&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafafil&repo=convoychat" />
-</a> <>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafil)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
