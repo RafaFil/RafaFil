@@ -10,7 +10,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaFil&show_icons=true&locale=en&layout=compact" alt="RafaFil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RafaFil&show_icons=true&locale=en" alt="RafaFil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafafil&" alt="rafafil" /></p>
 
